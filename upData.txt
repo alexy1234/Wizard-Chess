@@ -1,0 +1,277 @@
+A: avocados
+B: bicycles
+C: caterpillars
+D: dandelions
+E: eskimo
+F: flamingos
+G: giraffe
+H: helicopter
+One:
+	One
+	Won
+	Wanted
+	weiner
+	whiner
+Two:
+	Two
+	to
+	too
+Three:
+	three
+	the brain
+	the raid
+	the rear
+	the real
+	the reader
+Four:
+	four
+	for
+five:
+	five
+	live
+	fire
+	fiery
+	fly
+	by a
+	the guy
+	buyer
+six:
+	six
+	sex
+	sexes
+seven:
+	seven
+	set in
+	senate
+	said an
+eight:
+	eight
+	ate
+Pawn: N..
+Knight: ninety N...
+Bishop: twenty N...
+Rook: fifty N...
+Queen: seventy N...
+King: sixty N...
+
+a1: 
+	Input: one avocado
+	Response: one (wanted) avocado
+a2: 
+	Input: two avocados
+	Response: the two (to) avocados
+a3: 
+	Input: three avocados
+	Response: three (the raid) avocados
+a4: 
+	Input: four avocados
+	Response: for avocados
+a5: 
+	Input: five avocados
+	Response: (the) five (live)(the fire of) avocados
+a6: 
+	Input: six avocados
+	Response: the (six) sex avocados
+a7:
+	Input: seven avocados
+	Respose: the seven avocados
+a8: 
+	Input: eight avocados
+	Response: eight avocados
+b1: 
+	Input: one bicycle
+	Response: one bicycle
+b2: 
+	Input: two bicycles
+	Response: to bicycles
+b3: 
+	Input: three bicycles
+	Response: three bicycles
+b4: 
+	Input: four bicycles
+	Response: for bicycles
+b5: 
+	Input: five bicycles
+	Response: five(fiery)(fly)bicycles
+b6: 
+	Input: six bicycles
+	Response: sex (six) bicycles
+b7: 
+	Input: seven bicycles
+	Response: set in (senate) (said and) bicycles
+b8: 
+	Input: eight bicycles
+	Response: eight bicycles
+c1:
+	Input: one caterpillar
+	Response: the one in caterpillar
+c2:
+	Input: two caterpillars
+	Response: to caterpillar's	
+c3:
+	Input: three caterpillars
+	Response: three caterpillar's
+c4:
+	Input: four caterpillars
+	Response: for caterpillar's
+c5:
+	Input: five caterpillars
+	Response: five caterpillar's (caterpillars)
+c6:
+	Input: six caterpillars
+	Response: sex caterpillar's
+c7:
+	Input: seven caterpillars
+	Response: seven caterpillar's
+c8:
+	Input: eight caterpillars
+	Response: it caterpillar's
+d1:
+	Input: one dandelion
+	Response: one dandelion
+d2:
+	Input: two dandelions
+	Response: two (to) dandelions
+d3:
+	Input: three dandelions
+	Response: three dandelions
+d4:
+	Input: four dandelions
+	Response: for dandelions
+d5:
+	Input: five dandelions
+	Response: five dandelions
+d6:
+	Input: six dandelions
+	Response: sex dandelions
+d7:
+	Input: seven dandelions
+	Response: seven dandelions
+d8:
+	Input: eight dandelions
+	Response: eight dandelions
+e1:
+	Input: one eskimo
+	Response: one eskimo
+e2:
+	Input: two eskimos
+	Response: to eskimo
+e3:
+	Input: three eskimos
+	Response: three eskimos
+e4:
+	Input: four eskimos
+	Response: for eskimos
+e5:
+	Input: five eskimos
+	Response: five eskimos
+e6:
+	Input: six eskimos
+	Response: sex eskimos
+e7:
+	Input: seven eskimos
+	Response: set in eskimos
+e8:
+	Input: eight eskimos
+	Response: eight eskimos
+f1:
+	Input: one flamingo
+	Response: one flamingo
+f2:
+	Input: two flamingos
+	Response: two flamingos
+f3:
+	Input: three flamingos
+	Response: three flamingos
+f4:
+	Input: four flamingos
+	Response: four flamingos
+f5:
+	Input: five flamingos
+	Response: five flamingos
+f6:
+	Input: six flamingos
+	Response: sex flamingos
+f7:
+	Input: seven flamingos
+	Response: seven flamingos
+f8:
+	Input: eight flamingos
+	Response: eight flamingos
+g1:
+	Input: one giraffe
+	Response: one giraffe
+g2:
+	Input: two giraffes
+	Response: to giraffes
+g3:
+	Input: three giraffes
+	Response: the rear giraffes
+g4:
+	Input: four giraffes
+	Response: four giraffes
+g5:
+	Input: five giraffes
+	Response: five giraffes
+g6:
+	Input: six giraffes
+	Response: six giraffes
+g7:
+	Input: seven giraffes
+	Response: seven giraffes
+g8:
+	Input: eight giraffes
+	Response: eight giraffes
+h1:
+	Input: one helicopter
+	Response: one helicopter
+h2:
+	Input: two helicopters
+	Response: two helicopters
+h3:
+	Input: three helicopters
+	Response: three helicopters
+h4:
+	Input: four helicopters
+	Response: four helicopters
+h5:
+	Input: five helicopters
+	Response: five helicopters
+h6:
+	Input: six helicopters
+	Response: six helicopters
+h7:
+	Input: seven helicopters
+	Response: said in helicopters
+h8:
+	Input: eight helicopters
+	Response: eight helicopters
+Na8: 
+	Input: ninety eight avocados
+	Response: ninety eight avocados
+Ba8: 
+	Input: twenty eight avocados
+	Response: twenty eight avocados
+Ra8:
+	Input: fifty eight avocados
+	Response: (the) fifty eight avocados
+Qa8: 
+	Input: seventy eight avocados
+	Response: seventy eight avocados
+Ka8:
+	Input: sixty eight avocados
+	Response: it sixty eight avocados
+Castle Kingside:
+	Input: the king sits in the castle
+	Response: the king and sits in the castle (council)
+Castle Queenside:
+	Input: the queen sits in the castle
+	Response: the queen sits in the castle (council) 
+
+
+
+
+
+
+
+

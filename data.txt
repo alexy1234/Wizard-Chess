@@ -1,0 +1,76 @@
+A: avocado(s)
+B: books
+C: cows
+D: dobbs
+E: elves
+F: foxes
+G: grades
+H: home
+
+Pawn: N..
+Knight: ninety N...
+Bishop: twenty N...
+Rook: fifty N...
+Queen: seventy N...
+King: sixty N...
+
+a1: 
+	Input: one avocado
+	Response: one (wanted) avocado
+a2: 
+	Input: two avocados
+	Response: the two (to) avocados
+a3: 
+	Input: three avocados
+	Response: three (the raid) avocados
+a4: 
+	Input: four avocados
+	Response: for avocados
+a5: 
+	Input: five avocados
+	Response: (the) five (live)(the fire of) avocados
+a6: 
+	Input: six avocados
+	Response: the (six) sex avocados
+a7:
+	Input: seven avocados
+	Respose: the seven avocados
+a8: 
+	Input: eight avocados
+	Response: eight avocados
+
+Na8: 
+	Input: ninety eight avocados
+	Response: ninety eight avocados
+
+Ba8: 
+	Input: twenty eight avocados
+	Response: twenty eight avocados
+
+Ra8:
+	Input: fifty eight avocados
+	Response: (the) fifty eight avocados
+
+Qa8: 
+	Input: seventy eight avocados
+	Response: seventy eight avocados
+
+Ka8:
+	Input: sixty eight avocados
+	Response: it sixty eight avocados
+
+Castle Kingside:
+	Input: the king sits in the castle
+	Response: the king and sits in the castle (council)
+
+Castle Queenside:
+	Input: the queen sits in the castle
+	Response: the queen sits in the castle (council) 
+
+
+
+
+
+
+
+
